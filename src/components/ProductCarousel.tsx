@@ -55,7 +55,7 @@ export default function ProductCarousel() {
         {/* Left */}
         <button
           onClick={prev}
-          className="absolute left-0 z-999 p-2 bg-white bg-opacity-70 rounded-full shadow hover:bg-opacity-100 transition cursor-pointer"
+          className="absolute left-0 z-999 p-2 desmar_light_bg bg-opacity-70 rounded-full shadow hover:bg-opacity-100 transition cursor-pointer"
           aria-label="Previous"
         >
           <FaChevronLeft size={28} />
@@ -93,7 +93,7 @@ export default function ProductCarousel() {
         {/* Right */}
         <button
           onClick={next}
-          className="absolute right-0 z-999 p-2 bg-white bg-opacity-70 rounded-full shadow hover:bg-opacity-100 transition cursor-pointer"
+          className="absolute right-0 z-999 p-2 desmar_light_bg bg-opacity-70 rounded-full shadow hover:bg-opacity-100 transition cursor-pointer"
           aria-label="Next"
         >
           <FaChevronRight size={28} />

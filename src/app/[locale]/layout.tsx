@@ -68,7 +68,7 @@ export default async function LocaleLayout({
       <body className={`${geistSans.variable} ${geistMono.variable} ${inter.variable} ${francoisOne.variable} antialiased`}>
         <NextIntlClientProvider>
           <Navbar/>
-            <div className="bg-white shadow-2xl">
+            <div className="desmar_light_bg">
             {children}
             </div>
           <Footer/>

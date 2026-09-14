@@ -25,44 +25,45 @@ export default function About_Us() {
         </div>
       </div>
 
-      <div className="section_desmar side_by_side_container_desmar">
-        <div className="md:w-3/4">
+      <div className="middle_column">
+        <div className="section_desmar side_by_side_container_desmar">
+          <div className="md:w-3/4">
+            <h2 className="subheading_desmar desmar_text_brown">
+                  {t('who-we-are')}
+            </h2>
+            <p>
+              {t('who-we-are-p1')}
+              <br/><br/>
+              {t('who-we-are-p2')}
+            </p>
+          </div>
+          <div className="md:w-1/4">
+            <Image src="/DesmarLogo-02 flag.jpg" alt="Desmar Global Inc. Logo" width={1206} height={1526} className="width-1/3"/>
+          </div>
+        </div>
+        
+        <div className="section_desmar desmar_light_brown_bg">
           <h2 className="subheading_desmar desmar_text_brown">
-                {t('who-we-are')}
+              {t('our-commitment')}
           </h2>
           <p>
-            {t('who-we-are-p1')}
+            {t('our-commitment-p1')}
             <br/><br/>
-            {t('who-we-are-p2')}
+            {t('our-commitment-p2')}
           </p>
         </div>
-        <div className="md:w-1/4">
-          <Image src="/DesmarLogo-02 flag.jpg" alt="Desmar Global Inc. Logo" width={1206} height={1526} className="width-1/3"/>
+
+        <div className="section_desmar">
+          <h2 className="subheading_desmar desmar_text_brown">
+            {t('our-mission')}
+          </h2>
+          <p>
+            {t('our-mission-p1')}
+            <br /><br />
+            {t('our-mission-p2')}
+          </p>
         </div>
       </div>
-      
-      <div className="section_desmar desmar_light_brown_bg">
-        <h2 className="subheading_desmar desmar_text_brown">
-            {t('our-commitment')}
-        </h2>
-        <p>
-          {t('our-commitment-p1')}
-          <br/><br/>
-          {t('our-commitment-p2')}
-        </p>
-      </div>
-
-      <div className="section_desmar">
-        <h2 className="subheading_desmar desmar_text_brown">
-          {t('our-mission')}
-        </h2>
-        <p>
-          {t('our-mission-p1')}
-          <br /><br />
-          {t('our-mission-p2')}
-        </p>
-      </div>
-
       <div className="relative w-full h-[700px] md:h-[500px] "> {/* Adjust height as needed */}
         <Image
           src="/baja-california-josue-michael2.jpg"
@@ -128,23 +129,24 @@ export default function About_Us() {
           </div>
         </div>
       </div>
-
-      <div className="section_desmar">
-        <h2 className="subheading_desmar desmar_text_brown">
-              {t('our-vision')}
-        </h2>
-        <p>
-          {t('our-vision-p1')}
-        </p>
-      </div>
-      <div className="section_desmar ">
-        <h2 className="subheading_desmar desmar_text_brown">
-          {t('connect-with-us')}
-        </h2>
-        <p>
-          {t('connect-with-us-p1')}
-        </p>
-        <Link href="/contact-us" className="button_link bg-[#9D6F2A]">▷ {t('contact-us')}</Link>
+      <div className="middle_column">
+        <div className="section_desmar">
+          <h2 className="subheading_desmar desmar_text_brown">
+                {t('our-vision')}
+          </h2>
+          <p>
+            {t('our-vision-p1')}
+          </p>
+        </div>
+        <div className="section_desmar ">
+          <h2 className="subheading_desmar desmar_text_brown">
+            {t('connect-with-us')}
+          </h2>
+          <p>
+            {t('connect-with-us-p1')}
+          </p>
+          <Link href="/contact-us" className="button_link bg-[#9D6F2A]">▷ {t('contact-us')}</Link>
+        </div>
       </div>
 
         {/* Optional: Image credit */}
