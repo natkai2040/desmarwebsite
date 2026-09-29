@@ -63,10 +63,10 @@ export default function About_Us() {
             {t('our-mission-p2')}
           </p>
         </div>
-      </div>
+      </div>     
       <div className="relative w-full h-[700px] md:h-[500px] "> {/* Adjust height as needed */}
         <Image
-          src="/baja-california-josue-michael2.jpg"
+          src="/jakob-cotton-UQJf6y91zZs-unsplash_4.jpg"
           alt="Baja California background"
           fill
           priority

@@ -92,7 +92,7 @@ export default function Our_Products() {
                   <ul>
                     <li>▸ {t('spray-dry-maltodextrin-30')}</li>
                     <li>▸ {t('spray-dry-maltodextrin-50')}</li>
-                    <li>▸ {t('spray-dry-maltodextrin-67')}</li>
+                    {/* <li>▸ {t('spray-dry-maltodextrin-67')}</li> */}
                   </ul>
                 </div>
                 <div className=" py-2">
@@ -100,9 +100,10 @@ export default function Our_Products() {
                     {t('pharmaceutical-grade')}:
                   </div>
                   <ul>
-                    <li>▸ {t('spray-dry-cyclodextrin-10')}<br/></li>
+                    {/* <li>▸ {t('spray-dry-cyclodextrin-10')}<br/></li>
                     <li>▸ {t('spray-dry-cyclodextrin-15')}<br/></li>
-                    <li>▸ {t('spray-dry-cyclodextrin-20')}</li>
+                    <li>▸ {t('spray-dry-cyclodextrin-20')}</li> */}
+                    <li>▸ {t('call-or-email-for-specifications')}</li>
                   </ul>
                 </div>
                 <div>
