@@ -2,58 +2,183 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <url>
-        <loc>https://desmarglobal.com/</loc>
-        <lastmod>2025-07-15</lastmod>
-        <changefreq>yearly</changefreq>
-        <priority>0.9</priority>
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://desmarglobal.com/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://desmarglobal.com/en/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://desmarglobal.com/es/"/>
-        <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://desmarglobal.com/zh-Hans/"/>
-        <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://desmarglobal.com/zh-Hant/"/>
+        <loc>https://www.desmarglobal.com/en</loc>
+        <lastmod>2026-10-05</lastmod>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://www.desmarglobal.com/en"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.desmarglobal.com/en"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://www.desmarglobal.com/es"/>
+        <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://www.desmarglobal.com/zh-Hans"/>
+        <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.desmarglobal.com/zh-Hant"/>
     </url>
     <url>
-        <loc>https://desmarglobal.com/about-us</loc>
-        <lastmod>2025-07-15</lastmod>
-        <changefreq>yearly</changefreq>
-        <priority>0.6</priority>
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://desmarglobal.com/about-us"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://desmarglobal.com/en/about-us"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://desmarglobal.com/es/about-us"/>
-        <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://desmarglobal.com/zh-Hans/about-us"/>
-        <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://desmarglobal.com/zh-Hant/about-us"/>
+        <loc>https://www.desmarglobal.com/es</loc>
+        <lastmod>2026-10-05</lastmod>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://www.desmarglobal.com/en"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.desmarglobal.com/en"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://www.desmarglobal.com/es"/>
+        <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://www.desmarglobal.com/zh-Hans"/>
+        <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.desmarglobal.com/zh-Hant"/>
     </url>
     <url>
-        <loc>https://desmarglobal.com/our-products</loc>
-        <lastmod>2025-07-15</lastmod>
-        <changefreq>yearly</changefreq>
-        <priority>0.8</priority>
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://desmarglobal.com/our-products"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://desmarglobal.com/en/our-products"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://desmarglobal.com/es/our-products"/>
-        <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://desmarglobal.com/zh-Hans/our-products"/>
-        <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://desmarglobal.com/zh-Hant/our-products"/>
+        <loc>https://www.desmarglobal.com/zh-Hans</loc>
+        <lastmod>2026-10-05</lastmod>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://www.desmarglobal.com/en"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.desmarglobal.com/en"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://www.desmarglobal.com/es"/>
+        <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://www.desmarglobal.com/zh-Hans"/>
+        <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.desmarglobal.com/zh-Hant"/>
     </url>
     <url>
-        <loc>https://desmarglobal.com/contact-us</loc>
-        <lastmod>2025-07-15</lastmod>
-        <changefreq>yearly</changefreq>
-        <priority>0.5</priority>
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://desmarglobal.com/contact-us"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://desmarglobal.com/en/contact-us"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://desmarglobal.com/es/contact-us"/>
-        <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://desmarglobal.com/zh-Hans/contact-us"/>
-        <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://desmarglobal.com/zh-Hant/contact-us"/>
+        <loc>https://www.desmarglobal.com/zh-Hant</loc>
+        <lastmod>2026-10-05</lastmod>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://www.desmarglobal.com/en"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.desmarglobal.com/en"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://www.desmarglobal.com/es"/>
+        <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://www.desmarglobal.com/zh-Hans"/>
+        <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.desmarglobal.com/zh-Hant"/>
     </url>
     <url>
-        <loc>https://desmarglobal.com/about-yucca-schidigera</loc>
-        <lastmod>2025-07-15</lastmod>
-        <changefreq>yearly</changefreq>
-        <priority>0.7</priority>
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://desmarglobal.com/about-yucca-schidigera"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://desmarglobal.com/en/about-yucca-schidigera"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://desmarglobal.com/es/about-yucca-schidigera"/>
-        <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://desmarglobal.com/zh-Hans/about-yucca-schidigera"/>
-        <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://desmarglobal.com/zh-Hant/about-yucca-schidigera"/>
+        <loc>https://www.desmarglobal.com/en/about-us</loc>
+        <lastmod>2026-10-05</lastmod>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://www.desmarglobal.com/en/about-us"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.desmarglobal.com/en/about-us"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://www.desmarglobal.com/es/about-us"/>
+        <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://www.desmarglobal.com/zh-Hans/about-us"/>
+        <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.desmarglobal.com/zh-Hant/about-us"/>
+    </url>
+    <url>
+        <loc>https://www.desmarglobal.com/es/about-us</loc>
+        <lastmod>2026-10-05</lastmod>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://www.desmarglobal.com/en/about-us"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.desmarglobal.com/en/about-us"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://www.desmarglobal.com/es/about-us"/>
+        <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://www.desmarglobal.com/zh-Hans/about-us"/>
+        <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.desmarglobal.com/zh-Hant/about-us"/>
+    </url>
+    <url>
+        <loc>https://www.desmarglobal.com/zh-Hans/about-us</loc>
+        <lastmod>2026-10-05</lastmod>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://www.desmarglobal.com/en/about-us"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.desmarglobal.com/en/about-us"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://www.desmarglobal.com/es/about-us"/>
+        <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://www.desmarglobal.com/zh-Hans/about-us"/>
+        <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.desmarglobal.com/zh-Hant/about-us"/>
+    </url>
+    <url>
+        <loc>https://www.desmarglobal.com/zh-Hant/about-us</loc>
+        <lastmod>2026-10-05</lastmod>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://www.desmarglobal.com/en/about-us"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.desmarglobal.com/en/about-us"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://www.desmarglobal.com/es/about-us"/>
+        <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://www.desmarglobal.com/zh-Hans/about-us"/>
+        <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.desmarglobal.com/zh-Hant/about-us"/>
+    </url>
+    <url>
+        <loc>https://www.desmarglobal.com/en/our-products</loc>
+        <lastmod>2026-10-05</lastmod>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://www.desmarglobal.com/en/our-products"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.desmarglobal.com/en/our-products"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://www.desmarglobal.com/es/our-products"/>
+        <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://www.desmarglobal.com/zh-Hans/our-products"/>
+        <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.desmarglobal.com/zh-Hant/our-products"/>
+    </url>
+    <url>
+        <loc>https://www.desmarglobal.com/es/our-products</loc>
+        <lastmod>2026-10-05</lastmod>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://www.desmarglobal.com/en/our-products"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.desmarglobal.com/en/our-products"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://www.desmarglobal.com/es/our-products"/>
+        <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://www.desmarglobal.com/zh-Hans/our-products"/>
+        <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.desmarglobal.com/zh-Hant/our-products"/>
+    </url>
+    <url>
+        <loc>https://www.desmarglobal.com/zh-Hans/our-products</loc>
+        <lastmod>2026-10-05</lastmod>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://www.desmarglobal.com/en/our-products"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.desmarglobal.com/en/our-products"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://www.desmarglobal.com/es/our-products"/>
+        <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://www.desmarglobal.com/zh-Hans/our-products"/>
+        <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.desmarglobal.com/zh-Hant/our-products"/>
+    </url>
+    <url>
+        <loc>https://www.desmarglobal.com/zh-Hant/our-products</loc>
+        <lastmod>2026-10-05</lastmod>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://www.desmarglobal.com/en/our-products"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.desmarglobal.com/en/our-products"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://www.desmarglobal.com/es/our-products"/>
+        <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://www.desmarglobal.com/zh-Hans/our-products"/>
+        <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.desmarglobal.com/zh-Hant/our-products"/>
+    </url>
+    <url>
+        <loc>https://www.desmarglobal.com/en/contact-us</loc>
+        <lastmod>2026-10-05</lastmod>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://www.desmarglobal.com/en/contact-us"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.desmarglobal.com/en/contact-us"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://www.desmarglobal.com/es/contact-us"/>
+        <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://www.desmarglobal.com/zh-Hans/contact-us"/>
+        <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.desmarglobal.com/zh-Hant/contact-us"/>
+    </url>
+    <url>
+        <loc>https://www.desmarglobal.com/es/contact-us</loc>
+        <lastmod>2026-10-05</lastmod>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://www.desmarglobal.com/en/contact-us"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.desmarglobal.com/en/contact-us"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://www.desmarglobal.com/es/contact-us"/>
+        <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://www.desmarglobal.com/zh-Hans/contact-us"/>
+        <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.desmarglobal.com/zh-Hant/contact-us"/>
+    </url>
+    <url>
+        <loc>https://www.desmarglobal.com/zh-Hans/contact-us</loc>
+        <lastmod>2026-10-05</lastmod>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://www.desmarglobal.com/en/contact-us"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.desmarglobal.com/en/contact-us"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://www.desmarglobal.com/es/contact-us"/>
+        <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://www.desmarglobal.com/zh-Hans/contact-us"/>
+        <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.desmarglobal.com/zh-Hant/contact-us"/>
+    </url>
+    <url>
+        <loc>https://www.desmarglobal.com/zh-Hant/contact-us</loc>
+        <lastmod>2026-10-05</lastmod>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://www.desmarglobal.com/en/contact-us"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.desmarglobal.com/en/contact-us"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://www.desmarglobal.com/es/contact-us"/>
+        <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://www.desmarglobal.com/zh-Hans/contact-us"/>
+        <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.desmarglobal.com/zh-Hant/contact-us"/>
+    </url>
+    <url>
+        <loc>https://www.desmarglobal.com/en/about-yucca-schidigera</loc>
+        <lastmod>2026-10-05</lastmod>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://www.desmarglobal.com/en/about-yucca-schidigera"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.desmarglobal.com/en/about-yucca-schidigera"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://www.desmarglobal.com/es/about-yucca-schidigera"/>
+        <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://www.desmarglobal.com/zh-Hans/about-yucca-schidigera"/>
+        <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.desmarglobal.com/zh-Hant/about-yucca-schidigera"/>
+    </url>
+    <url>
+        <loc>https://www.desmarglobal.com/es/about-yucca-schidigera</loc>
+        <lastmod>2026-10-05</lastmod>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://www.desmarglobal.com/en/about-yucca-schidigera"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.desmarglobal.com/en/about-yucca-schidigera"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://www.desmarglobal.com/es/about-yucca-schidigera"/>
+        <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://www.desmarglobal.com/zh-Hans/about-yucca-schidigera"/>
+        <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.desmarglobal.com/zh-Hant/about-yucca-schidigera"/>
+    </url>
+    <url>
+        <loc>https://www.desmarglobal.com/zh-Hans/about-yucca-schidigera</loc>
+        <lastmod>2026-10-05</lastmod>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://www.desmarglobal.com/en/about-yucca-schidigera"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.desmarglobal.com/en/about-yucca-schidigera"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://www.desmarglobal.com/es/about-yucca-schidigera"/>
+        <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://www.desmarglobal.com/zh-Hans/about-yucca-schidigera"/>
+        <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.desmarglobal.com/zh-Hant/about-yucca-schidigera"/>
+    </url>
+    <url>
+        <loc>https://www.desmarglobal.com/zh-Hant/about-yucca-schidigera</loc>
+        <lastmod>2026-10-05</lastmod>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://www.desmarglobal.com/en/about-yucca-schidigera"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.desmarglobal.com/en/about-yucca-schidigera"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://www.desmarglobal.com/es/about-yucca-schidigera"/>
+        <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://www.desmarglobal.com/zh-Hans/about-yucca-schidigera"/>
+        <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.desmarglobal.com/zh-Hant/about-yucca-schidigera"/>
     </url>
 </urlset>

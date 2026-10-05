@@ -1,4 +1,11 @@
 {
+  "Metadata": {
+    "home": { "title": "Desmar Global Inc | 絲蘭供應商", "description": "Desmar Global 是領先的絲蘭噴霧乾燥粉、提取物與纖維供應商，產品適用於農業、飼料、醫藥及美容產業。" },
+    "aboutUs": { "title": "關於我們", "description": "了解我們的使命，以及我們作為全球領先絲蘭供應商對品質的承諾。" },
+    "ourProducts": { "title": "絲蘭產品", "description": "探索我們完整的絲蘭提取物與纖維產品系列，每款產品皆為滿足特定客戶需求而設計。" },
+    "contactUs": { "title": "聯絡我們", "description": "如需詢問產品或索取樣品，歡迎透過電子郵件、電話、郵寄地址或聯絡表單與我們聯繫。" },
+    "aboutProduct": { "title": "關於絲蘭", "description": "了解絲蘭在農業、飼料、醫藥及美容產業中的用途。" }
+  },
   "Homepage": {
     "hero-title": "歡迎來到 Desmar Global Inc.",
     "hero-subtitle": "領先的絲蘭提取物與纖維供應商",
@@ -9,8 +16,8 @@
     "our-products-title": "我們的產品",
 
     "our-products-spray-dry": "絲蘭噴霧乾燥粉",
-    "spray-dry-details-maltodextrin": "含麥芽糊精，用於飼料、食品及美容用途，具有不同濃度（請來電洽詢規格）",
-    "spray-dry-details-cyclodextrin": "含環糊精，用於藥用用途，具有不同濃度（請來電洽詢規格）",
+    "spray-dry-details-maltodextrin": "含麥芽糊精，用於飼料、食品及美容產業，具有不同濃度（請來信洽詢規格）",
+    "spray-dry-details-cyclodextrin": "含環糊精，用於醫藥及營養補充品產業，具有不同濃度（請來信洽詢規格）",
     "our-products-extract": "不同 Brix 濃度（30%、40%、50%）的絲蘭提取物",
     "extract-details": "具不同 Brix 濃度（30%、40%、50%）",
     "our-products-fiber": "絲蘭纖維具有不同的 TDS 和網格等級（10%、30% 或客戶規格）",

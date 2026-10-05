@@ -1,4 +1,12 @@
 {
+
+    "Metadata": {
+        "home": { "title": "Desmar Global Inc | Yucca Schidigera Supplier", "description": "Desmar Global is a leading supplier of Yucca schidigera spray-dried powder, extract, and fiber for agricultural, feed, pharmaceutical, and beauty uses." },
+        "aboutUs": { "title": "About Us", "description": "Learn about our mission and our commitment to quality as a leading global supplier of Yucca schidigera." },
+        "ourProducts": { "title": "Yucca Schidigera Products", "description": "Explore our full line of Yucca schidigera extracts and fibers, each designed to meet specific customer needs." },
+        "contactUs": { "title": "Contact Us", "description": "Contact us for product inquiries and sample requests by email, phone, mail, or through our contact form." },
+        "aboutProduct": { "title": "About Yucca Schidigera", "description": "Learn about the uses of Yucca schidigera in the agricultural, feed, pharmaceutical, and beauty industries." }
+    },
     "Homepage": {
         "hero-title": "Welcome to Desmar Global Inc.",
         "hero-subtitle": "The leading supplier of Yucca Schidigera Spray dry, Extract, and Fiber",
@@ -9,8 +17,8 @@
         "our-products-title": "Our Products",
 
         "our-products-spray-dry": "Yucca Spray Dried Powder",
-        "spray-dry-details-maltodextrin": "for Feed, Food, and Beauty Purposes at various concentrations (Call for Specs)",
-        "spray-dry-details-cyclodextrin": "for Pharmaceutical Purposes at various concentrations (Call for Specs)",
+        "spray-dry-details-maltodextrin": "for Feed, Food, and Beauty industries at various concentrations (Email for Specifications)",
+        "spray-dry-details-cyclodextrin": "for Pharmaceutical and Supplement industries at various concentrations (Email for Specifications)",
         "our-products-extract": "Yucca extract",
         "extract-details": " at various Brix levels (30%, 40%, and 50%)",
         "our-products-fiber": "Yucca Fiber",

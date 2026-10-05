@@ -1,4 +1,11 @@
 {
+  "Metadata": {
+    "home": { "title": "Desmar Global Inc | Proveedor de Yucca Schidigera", "description": "Proveedor líder de polvo spray dried, extracto y fibra de Yucca schidigera para agricultura, alimentación animal, farmacéutica y belleza." },
+    "aboutUs": { "title": "Sobre Nosotros", "description": "Conozca nuestra misión y nuestro compromiso con la calidad como proveedor global líder de Yucca schidigera." },
+    "ourProducts": { "title": "Productos de Yucca Schidigera", "description": "Explore nuestra línea completa de extractos y fibras de Yucca schidigera, diseñados para satisfacer las necesidades específicas de cada cliente." },
+    "contactUs": { "title": "Contáctenos", "description": "Solicite información de productos o muestras por correo electrónico, teléfono, correo postal o nuestro formulario de contacto." },
+    "aboutProduct": { "title": "Sobre la Yucca Schidigera", "description": "Conozca los usos de la Yucca schidigera en las industrias agrícola, de alimentación animal, farmacéutica y de belleza." }
+  },
   "Homepage": {
     "hero-title": "Bienvenido a Desmar Global Inc.",
     "hero-subtitle": "El principal proveedor de extracto y fibra de Yucca Schidigera",
@@ -9,8 +16,8 @@
     "our-products-title": "Nuestros Productos",
     
     "our-products-spray-dry": "Polvo de Yucca Spray Dried",
-    "spray-dry-details-maltodextrin": "con Maltodextrina para usos en alimentos para animales, alimentos y belleza, en varias concentraciones (llame para conocer las especificaciones)",
-    "spray-dry-details-cyclodextrin": "con Ciclodextrina para usos farmacéuticos, en varias concentraciones (llame para conocer las especificaciones)",
+    "spray-dry-details-maltodextrin": "con Maltodextrina para las industrias de alimentos para animales, alimentos y belleza, en varias concentraciones (envíe un correo electrónico para conocer las especificaciones)",
+    "spray-dry-details-cyclodextrin": "con Ciclodextrina para las industrias farmacéutica y de suplementos, en varias concentraciones (envíe un correo electrónico para conocer las especificaciones)",
     "our-products-extract": "Extractos de Yucca",
     "extract-details": "en varios niveles Brix (30%, 40% y 50%)",
     "our-products-fiber": "Fibra de Yucca",
