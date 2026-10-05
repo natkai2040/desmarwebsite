@@ -13,22 +13,12 @@ import {notFound} from 'next/navigation';
 import {routing} from '@/i18n/routing';
 
 
-
-// export const metadata: Metadata = {
-//   title: "Desmar Global Incorporated",
-//   description: "The Number One Distributor of Yucca Schidigera",
-//   icons: {
-//     icon:'favicon.ico'
-//   }
-// };
-
-// app/[locale]/layout.tsx
-export const metadata = {
+export const metadata: Metadata = {
   metadataBase: new URL('https://www.desmarglobal.com'),
   title: { template: '%s | Desmar Global Inc', default: 'Desmar Global Inc' },
   icons: {
-    icon: '/favicon.ico'
-  }
+    icon: '/favicon.ico',
+  },
 };
 
 //* FONTS */
