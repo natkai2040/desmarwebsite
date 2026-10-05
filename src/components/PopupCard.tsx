@@ -26,7 +26,7 @@ export default function PopupCard({ onClose }: PopupCardProps) {
             <br></br>
             {t('or-use-form')}
         </p>
-        <Link href="/contact-us" className="button_link_desmar">
+        <Link href="/contact-us" className="button_link">
           {t('contact-form-link')}
         </Link>
     </div>

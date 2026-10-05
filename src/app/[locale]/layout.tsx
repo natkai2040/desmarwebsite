@@ -16,9 +16,8 @@ import {routing} from '@/i18n/routing';
 export const metadata: Metadata = {
   metadataBase: new URL('https://www.desmarglobal.com'),
   title: { template: '%s | Desmar Global Inc', default: 'Desmar Global Inc' },
-  icons: {
-    icon: '/favicon.ico',
-  },
+  icons: { icon: '/favicon.ico' },
+  twitter: { card: 'summary_large_image' },
 };
 
 //* FONTS */
